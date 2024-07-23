@@ -1,0 +1,30 @@
+.nav{
+    height:  calc(var(--header-height) + 1.5rem);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-logo-img{
+    width: 190px;
+}
+
+.nav-list{
+    display: flex;
+    column-gap: 2rem ;
+}
+
+.nav-link, .nav-toggle {
+    color: var(--title-color);
+}
+
+.nav-link{
+    font-size: var(--large-font-size);
+    font-weight: var(--weight-500);
+}
+
+.nav-toggle{
+    font-size: var(--h2-font-size);
+    display: none;
+}
+
