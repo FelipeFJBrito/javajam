@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/javajam/static/css/main.05a02395.css",
+    "main.js": "/javajam/static/js/main.bd71a20b.js",
+    "static/media/home-bg.png": "/javajam/static/media/home-bg.bf22bdd6773b4a2b09b1.png",
+    "static/media/05.jpg": "/javajam/static/media/05.ad53057e4e0d95b2b86f.jpg",
+    "static/media/04.jpg": "/javajam/static/media/04.05f3de3ef25ec0041889.jpg",
+    "static/media/gallery-2.jpg": "/javajam/static/media/gallery-2.a2d737a52568cfe34ec7.jpg",
+    "static/media/03.jpg": "/javajam/static/media/03.0ed2675c6a3701c35adf.jpg",
+    "static/media/offer-2.jpg": "/javajam/static/media/offer-2.25f35269036c502dd168.jpg",
+    "static/media/08.jpg": "/javajam/static/media/08.2f79eb26756f0819e546.jpg",
+    "static/media/02.jpg": "/javajam/static/media/02.fdfcb5ea2e6dc81118b1.jpg",
+    "static/media/01.jpg": "/javajam/static/media/01.764211f742357dbb0031.jpg",
+    "static/media/07.jpg": "/javajam/static/media/07.01f638eca82a22a3c6d8.jpg",
+    "static/media/about-img.jpg": "/javajam/static/media/about-img.883c3fc8ec768150b71b.jpg",
+    "static/media/offer-1.jpg": "/javajam/static/media/offer-1.6b00cfaf1e83b31d8c4f.jpg",
+    "static/media/06.jpg": "/javajam/static/media/06.7e5bff19fe961ff993f1.jpg",
+    "static/media/gallery-4.jpg": "/javajam/static/media/gallery-4.85c54a6e109bcebe1456.jpg",
+    "static/media/gallery-3.jpg": "/javajam/static/media/gallery-3.c9758bc3b7201536eac1.jpg",
+    "static/media/gallery-1.jpg": "/javajam/static/media/gallery-1.b7cc0a5a612dd88a493d.jpg",
+    "static/media/gallery-5.jpg": "/javajam/static/media/gallery-5.d35a9155ab21f9741240.jpg",
+    "static/media/logo.png": "/javajam/static/media/logo.5a5d1d2f4d79f3530a16.png",
+    "static/media/free-delivery.svg": "/javajam/static/media/free-delivery.756771600e7384ac6617944fdeca01d9.svg",
+    "static/media/coffee-beans.svg": "/javajam/static/media/coffee-beans.e8f98aeb42911090f64137fdaae8bb98.svg",
+    "static/media/certified.svg": "/javajam/static/media/certified.4ee9aac3ef08a424597526acb635c38b.svg",
+    "static/media/coffee.svg": "/javajam/static/media/coffee.8b07ed5baf8a5c88cfff4d0ad597f784.svg",
+    "index.html": "/javajam/index.html",
+    "main.05a02395.css.map": "/javajam/static/css/main.05a02395.css.map",
+    "main.bd71a20b.js.map": "/javajam/static/js/main.bd71a20b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a02395.css",
+    "static/js/main.bd71a20b.js"
+  ]
+}
