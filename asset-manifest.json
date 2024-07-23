@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/javajam/static/css/main.7d692b41.css",
+    "main.css": "/javajam/static/css/main.21fb7dce.css",
     "main.js": "/javajam/static/js/main.5d51387b.js",
     "static/media/home-bg.png": "/javajam/static/media/home-bg.bf22bdd6773b4a2b09b1.png",
     "static/media/05.jpg": "/javajam/static/media/05.ad53057e4e0d95b2b86f.jpg",
@@ -26,11 +26,11 @@
     "static/media/certified.svg": "/javajam/static/media/certified.4ee9aac3ef08a424597526acb635c38b.svg",
     "static/media/coffee.svg": "/javajam/static/media/coffee.8b07ed5baf8a5c88cfff4d0ad597f784.svg",
     "index.html": "/javajam/index.html",
-    "main.7d692b41.css.map": "/javajam/static/css/main.7d692b41.css.map",
+    "main.21fb7dce.css.map": "/javajam/static/css/main.21fb7dce.css.map",
     "main.5d51387b.js.map": "/javajam/static/js/main.5d51387b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d692b41.css",
+    "static/css/main.21fb7dce.css",
     "static/js/main.5d51387b.js"
   ]
 }
