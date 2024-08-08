@@ -1,0 +1,12 @@
+.stats{
+    background: var(--container-color);
+}
+
+.stats-grid{
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.stats-img {
+    width: 60px;
+    
+}

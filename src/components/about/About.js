@@ -13,7 +13,7 @@ const About = () => {
                     <img className="about-img" src={aboutImg} alt='' />
                 </div>
                 <div className="about-content">
-                    <h2 className="section-title" data-title='About Us'>
+                    <h2 className="section-title title-left" data-title='About Us'>
                         Fresh Quality And Organic Tasty Coffee House For You
                     </h2>
 
